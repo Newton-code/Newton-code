@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Newton-code
 - 👀 I’m interested in working on web design and development.
-- 🌱 I’m currently learning software engineering.
+- 🌱 I’m a software engineer.
 - 💞️ I’m looking to collaborate on team work.
 - 📫 How to reach me you can email me through osumbanewton@gmail.com
 
